@@ -1,12 +1,13 @@
 # Top Deep Learning Projects
 A list of popular github projects related to deep learning (ranked by stars).
 
-Last Update: 2016.08.09
+Last Update: 2020.10.05
 
 | Project Name| Stars | Description |
 | ------- | ------ | ------ |
 | [TensorFlow](https://github.com/tensorflow/tensorflow) | 29622 | Computation using data flow graphs for scalable machine learning.
 | [Caffe](https://github.com/BVLC/caffe) | 11799 | Caffe: a fast open framework for deep learning.
+| [CycleGAN and pix2pix in PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)| 11,787 | OpenCL library to train deep convolutional neural networks.
 | [Neural Style](https://github.com/jcjohnson/neural-style) | 10148 | Torch implementation of neural style algorithm.
 | [Deep Dream](https://github.com/google/deepdream) | 9042 | Deep Dream.
 | [Keras](https://github.com/fchollet/keras) | 7502 | Deep Learning library for Python. Convnets, recurrent neural networks, and more. Runs on Theano and TensorFlow.
